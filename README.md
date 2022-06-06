@@ -1,8 +1,8 @@
 # HackerRank-30Days-Java
 ![Banner](img/HackerRank_30_Days_Banner.jpg)
-# About
+## About
 This repository solves all problems of "HackerRank 30 Days of Code" using Java programming language. Go to "Code - Day 0 to 30" folder and access all the solution code of  "HackerRank 30 Days of Code". This is the proper starting of Coding, this 30 days contains verious basic and importaint topics. So, solve it and get start with coding world.
-# Topics
+## Topics
 - Day 0: Hello World
 - Day 1: Data Types
 - Day 2: Operators
