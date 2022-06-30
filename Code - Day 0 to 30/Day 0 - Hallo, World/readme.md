@@ -1,6 +1,8 @@
-# Topic
+# Topic:
 From here the coding journy starts by `taking input` and `giving output`
-# Code
+# Link:
+https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true
+# Code:
 ```
 import java.io.*;
 import java.util.*;
@@ -15,4 +17,6 @@ public class Solution {
         System.out.println(line); 
     }
 }
+```
+
 ```
