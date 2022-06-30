@@ -1,5 +1,5 @@
 # Topic:
-Topics covered in this question are `loop` and `string`
+Topics covered in this question are `loop`, `if-else` and `string`
 # Link:
 https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true
 # Code:
